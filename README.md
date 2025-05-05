@@ -254,7 +254,7 @@ Project Link: [https://github.com/ssyyhhrr/ga4-reporter](https://github.com/ssyy
 [forks-shield]: https://img.shields.io/github/forks/ssyyhhrr/ga4-reporter.svg?style=for-the-badge
 [forks-url]: https://github.com/ssyyhhrr/ga4-reporter/network/members
 [stars-shield]: https://img.shields.io/github/stars/ssyyhhrr/ga4-reporter.svg?style=for-the-badge
-[stars-url]: https://github.com/ssyyhhrr/ga4-reporter.svg/stargazers
+[stars-url]: https://github.com/ssyyhhrr/ga4-reporter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ssyyhhrr/ga4-reporter.svg?style=for-the-badge
 [issues-url]: https://github.com/ssyyhhrr/ga4-reporter/issues
 [license-shield]: https://img.shields.io/github/license/ssyyhhrr/ga4-reporter.svg?style=for-the-badge
