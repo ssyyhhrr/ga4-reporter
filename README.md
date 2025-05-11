@@ -65,8 +65,8 @@
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/ssyyhhrr/ga4-pageviews-api.git
-cd ga4-pageviews-api
+git clone https://github.com/ssyyhhrr/ga4-reporter.git
+cd ga4-reporter
 ```
 
 2. Install dependencies:
