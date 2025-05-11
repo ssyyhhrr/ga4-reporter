@@ -65,7 +65,7 @@
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/ga4-pageviews-api.git
+git clone https://github.com/ssyyhhrr/ga4-pageviews-api.git
 cd ga4-pageviews-api
 ```
 
